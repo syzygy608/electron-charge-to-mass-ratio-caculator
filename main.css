@@ -1,0 +1,46 @@
+body
+{
+  background-color:rgb(34, 34, 34);
+}
+h1, h2, h3, h4{
+  color: white; 
+  text-align: center;
+}
+
+.content
+{
+  width: 60%;
+  height: 100%;
+  margin:0 auto;
+}
+
+.inputer
+{
+    background: none;
+    width: 25%;
+    text-align: center;
+    border: 2px solid #d6f79a;
+    padding: 15px 30px;
+    color: white;
+    font-size: 15px;
+    border-radius: 30px;
+    transition: 0.5s;
+    vertical-align: middle;
+}
+
+.button
+{
+    background: none;
+    width: 15%;
+    border: 2px solid #d6f79a;
+    padding: 15px 30px;
+    color: white;
+    font-size: 15px;
+    border-radius: 30px;
+    transition: 0.5s;
+    vertical-align: middle;
+}
+.button:hover
+{
+    background: #74835a;
+}
