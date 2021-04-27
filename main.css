@@ -32,6 +32,7 @@ h1, h2, h3, h4{
 {
     background: none;
     width: 15%;
+    text-align: center;
     border: 2px solid #d6f79a;
     padding: 15px 30px;
     color: white;
