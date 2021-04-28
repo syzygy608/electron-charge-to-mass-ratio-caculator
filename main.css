@@ -6,35 +6,33 @@ h1, h2, h3, h4{
   color: white; 
   text-align: center;
 }
-
 .content
 {
   width: 60%;
   height: 100%;
   margin:0 auto;
+  border: 2px solid #d6f79a;
+  border-radius: 10px;
 }
-
 .inputer
 {
     background: none;
-    width: 25%;
+    width: 20%;
     text-align: center;
     border: 2px solid #d6f79a;
-    padding: 15px 30px;
+    padding: 10px 20px;
     color: white;
-    font-size: 15px;
-    border-radius: 30px;
+    font-size: 12px;
+    border-radius: 20px;
     transition: 0.5s;
     vertical-align: middle;
 }
-
 .button
 {
     background: none;
     width: 15%;
-    text-align: center;
     border: 2px solid #d6f79a;
-    padding: 15px 30px;
+    padding: 5px;
     color: white;
     font-size: 15px;
     border-radius: 30px;
